@@ -17,22 +17,22 @@ Ecuador es un país multicultural y multiétnico, con una rica historia que incl
 
 Este repositorio está organizado en cuatro archivos principales que detallan las diferentes regiones del Ecuador:
 
-- [**Costa.md**](./costa.md)
+- [**Costa**](./costa.md)
   - Descripción detallada de la región Costa del Ecuador.
   - Información sobre el clima, geografía, economía, cultura y turismo.
   - Tabla de población por provincia de la región Costa.
 
-- [**Sierra.md**](./sierra.md)
+- [**Sierra**](./sierra.md)
   - Descripción detallada de la región Sierra del Ecuador.
   - Información sobre el clima, geografía, economía, cultura y turismo.
   - Tabla de población por provincia de la región Sierra.
 
-- [**Amazonía.md**](./amazonia.md)
+- [**Amazonía**](./amazonia.md)
   - Descripción detallada de la región Amazonía del Ecuador.
   - Información sobre el clima, geografía, economía, cultura y turismo.
   - Tabla de población por provincia de la región Amazonía.
 
-- [**Insular.md**](./insular.md)
+- [**Insular**](./insular.md)
   - Descripción detallada de la región Insular del Ecuador (Islas Galápagos).
   - Información sobre el clima, geografía, economía, cultura y turismo.
   - Tabla de población por provincia de la región Insular.
